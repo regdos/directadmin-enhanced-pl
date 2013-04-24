@@ -21,3 +21,16 @@
 21=Reseller
 22=Maska
 23=Brama
+24=Dodaj do DNS
+25=Podłączone adresy IP
+26=Odłącz
+27=Zaznaczone:
+28=Dodaj do Apache
+29=Wybierz adres IP do podłączenia go doadresu IP %s
+30=Podłącz
+31=Wybrany adres IP nie jest dostępny do podłaczenia
+32=Błą zapisu %s: %s
+33=Jeden (lub więcej) z wybranych adresów IP nie znajduje się na Twojej liście
+34=Usuń z DNS
+35=Usuń z Apache
+36=Zastosuj do istniejących domen

@@ -166,3 +166,4 @@
 166=Nie można ustawić limitu na wartość bez limitu.
 167=Limit powinien się zawierać w przedziale od 1 do %d
 168=nowy limit wysłanych listów e-mail to: %s
+169=%sUsuń również przekierowania (aliasy)%s

@@ -93,3 +93,4 @@
 93=Konto %s zostało pominięte ponieważ jest zawieszone
 94=Pomiń zawieszone
 95=Informacje o FTP są niepoprawne.
+96=Nie można przywrócić '%s' ponieważ nie istnieje Reseller lub Admin '%s'. Zmień nazwę pliku, jeśli to potrzebne.

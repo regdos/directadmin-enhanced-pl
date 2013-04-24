@@ -356,7 +356,7 @@
 356=Safe Mode zostało wyłączone dla wybranych domen
 357=Domyślnie jest ustawiony
 358=Dostosuj zapisywanie
-359=Ustaw jako domyślna
+359=Ustaw jako domyślną
 360=Zawieś / Odwieś
 361=Nie można ustawić jako domenę domyślną
 362=Proszę wybierz jedną domenę żeby ustawić ją jako domyślną
@@ -518,3 +518,7 @@
 518=Usługa
 519=Status
 520=Użycie pamięci
+521=Nie znaleziono adresu IP
+522=Dodano połączenie adresu IP 
+523=Usunięto połączenie(a) adresu IP
+524=Odświeżenie cache Użytkownika nastąpi za chwilę.
