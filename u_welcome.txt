@@ -1,0 +1,58 @@
+Witamy,
+
+Dziękujemy za wybór naszej firmy. 
+Liczymy, że nasze usługi spełnią Państwa oczekiwania.
+
+Konto zostało utworzone w naszym systemie.
+
+Dane niezbędne do zalogowania:
+Użytkownik: |username|
+Hasło     : |password|
+Domena    : |domain|
+
+W celu zalogowania się do panelu administracyjnego proszę wprowadzić
+nazwę użytkownika oraz hasło podane powyżej korzystając ze strony:
+http://|ip|:|PORT|
+
+
+Gdy Twoja domena zostanie rozgłoszona możesz używać adresu:
+http://www.|domain|:|PORT|
+
+Transfer miesięczny: |bandwidth| Megabajtów
+Przestrzeń dyskowa : |quota| Megabajtów
+
+Adres serwerów DNS (użyj przy rejestracji domeny jeżeli chcesz skierować domenę na Nasz serwer).
+NS1   : |ns1|
+NS1 IP: |ns1ip|
+NS2   : |ns2|
+NS2 IP: |ns2ip|
+
+Adres IP             : |ip|
+Użyj http://|ip||*if OWNED!="yes"|/~|username||*endif| w celu uzyskania dostępu zanim Twoja domena zostanie rozgłoszona.
+
+Domeny               : |vdomains|
+Subdomeny            : |nsubdomains|
+
+Konta pocztowe       : |nemails|
+Przekierowania poczty: |nemailf|
+Autorespondery       : |nemailr|
+Listy dyskusyjne     : |nemailml|
+Adres serwera POP3   : mail.|domain|
+Adres serwera SMTP   : mail.|domain|
+
+Konta FTP            : |ftp|
+Konta Anonimowe FTP  : |aftp|
+Adres serwera FTP    : ftp.|domain|
+
+Bazy danych MySQL    : |mysql|
+Wskaźniki domen      : |domainptr|
+Dostęp do SSL        : |ssl|
+Dostęp do CGI        : |cgi|
+Dostęp do PHP        : |php|
+Kontrola DNS         : |dnscontrol|
+Dostęp SSH           : |ssh|
+
+
+Jeszcze raz dziękujemy za wybór naszej oferty. W razie jakichkolwiek pytań pozostajemy do dyspozycji.
+
+Wiadomość wygenerowana automatycznie.

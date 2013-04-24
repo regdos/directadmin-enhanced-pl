@@ -1,0 +1,10 @@
+|?SUBJECT=Użytkownik `USERNAME` wykorzystał `BANDWIDTH`% ze swojego limitu transferu i `QUOTA`% ze swojego limitu pojemności|
+To jest generowana automatyczna wiadomość dla użytkownika |USERNAME|, że wykorzystał |BANDWIDTH| %  ze swojego miesięcznego limitu transferu i |QUOTA|% ze swojego limitu pojemości.
+
+Szacuje się, że przy obecnym poziomie wykorzystania konto będzie jeszcze aktywne przez |TIMELEFT| dni a po tym czasie zostanie zawieszone do końca miesiąca.
+
+Użytkownik powinien skontaktować się z działem pomocy technicznej w celu wyjaśnienia sprawy jeżeli jest to problem.
+
+================================
+Wiadomość generowana automatycznie przez panel DirectAdmin
+

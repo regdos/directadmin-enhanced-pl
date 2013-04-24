@@ -1,0 +1,14 @@
+Witamy,
+
+Dziękujemy za wybór naszej firmy. 
+Liczymy, że nasze usługi spełnią Państwa oczekiwania.
+
+Konto administratora zostało utworzone w naszym systemie.
+
+Dane niezbędne do zalogowania:
+Użytkownik: |username|
+Hasło     : |password|
+
+W celu zalogowania się do panelu administracyjnego proszę wprowadzić
+nazwę użytkownika oraz hasło podane powyżej korzystając ze strony:
+http://|ip|:|PORT|

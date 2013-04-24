@@ -1,0 +1,14 @@
+|?SUBJECT=Nowe zgłoszenie: `MESSAGE_SUBJECT`|
+Nowe zgłoszenie o temacie:
+
+|MESSAGE_SUBJECT|
+
+czeka na rozwiązanie.
+Kliknij w link poniżej żeby zobaczyć zgłoszenie:
+
+|HTTP||DOMAIN|:|PORT|/CMD_TICKET_MANAGE?action=view&number=|NUMBER|&type=ticket
+
+
+======================================================
+Wiadomość generowana automatycznie przez panel DirectAdmin |VERSION|
+Nie odpowiadaj na nią.
