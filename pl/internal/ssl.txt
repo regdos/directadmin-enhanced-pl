@@ -24,3 +24,4 @@
 24=Nowo zainstalowany klucz ma %s-bitów
 25=Ta domena będzie tymczasowo korzystać z Shared Server Certificate, chyba że przywrócisz klucz z kopii zapasowej (ale zapisz napier nowy klucz lub zostanie on utracony)
 26=Nie możn otworzyć pliki CA Certificate (%s) do zapisu do: %s
+27=NOTE: You are using the server IP, so your CA Root Certificate has been saved to

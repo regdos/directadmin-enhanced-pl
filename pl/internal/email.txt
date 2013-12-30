@@ -167,3 +167,8 @@
 167=Limit powinien się zawierać w przedziale od 1 do %d
 168=nowy limit wysłanych listów e-mail to: %s
 169=%sUsuń również przekierowania (aliasy)%s
+170=Until the cache is created, the values may not be correct.  Refresh the page in 1 minute.
+171=The cache is being updated. Please refresh the page in 1 minute.
+172=User %s has one or more hard links in his path:
+173=Backup Abort: A hard link was found under User %s's path
+174=(%d) The following hard links have been found under User %s:

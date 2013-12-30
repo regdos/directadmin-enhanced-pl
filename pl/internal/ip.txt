@@ -34,3 +34,5 @@
 34=Usuń z DNS
 35=Usuń z Apache
 36=Zastosuj do istniejących domen
+37=Variable 'ip' is missing from the submission
+38=Couldn't find any IPs of any type to give User.  Ensure the Reseller's ip.list has some usable IPs.

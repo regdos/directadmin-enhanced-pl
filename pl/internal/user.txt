@@ -73,3 +73,31 @@
 73=Wskaźniki domen
 74=Użyj tylko małych liter jako nazwa użytkownika
 75=Użytkownik już istnieje na innym serwerze
+76=Security Question
+77=Delete
+78=ID
+79=or
+80=Set to
+81=Add new Security Question
+82=Add
+83=Cannot find any security questions from security_questions.txt
+84=Invalid characters in security answer
+85=Error writing %s
+86=Cannot find Security Question ID %d in the User list
+87=Security Answer is too long max=%d
+88=<b>Please answer this Security Question</b>
+89=Submit
+90=Wrong Answer. You have %d more attempts.%s
+91=Warning: %s has a valid password for %s but failed the security questions %s times.
+92=The IP %s has provided the correct password for the %s account.%cHowever, after %s attempts, they were not able to provide a valid answer for the security questions, so no access was granted.%cIf this is not your IP, change your password.%s
+93=%s%s has been blocked in %s to prevent further attempts on the account.
+94=%sYour IP will be blacklisted
+95=Custom Question
+96=Answer
+97=Invalid characters in security question
+98=Security Question is too long max=%d
+99=%sThe question was:%c'%s'%swith the incorrect answer of:%c'%s'
+100=hidden
+101=Case Sensitive
+102=Inodes
+103=Group %s already exists. Please chose a different username.
