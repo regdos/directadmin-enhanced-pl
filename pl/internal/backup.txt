@@ -96,7 +96,7 @@
 96=Nie można przywrócić '%s' ponieważ nie istnieje Reseller lub Administrator '%s'. Zmień nazwę pliku, jeśli to potrzebne.
 97=Powiel
 98=Uruchom
-99=Sprawdzenie hard-link przed wykonaniem kopii zapasowej
+99=Sprawdzenie twardych dowiązań (hard link) przed wykonaniem kopii zapasowej
 100=Przygotowanie danych katalogu 'domains'
 101=Przygotowanie danych (dane spoza katalogu 'domains')
 102=Kopiowanie danych nieczytelnych
