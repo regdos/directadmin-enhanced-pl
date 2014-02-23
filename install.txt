@@ -162,7 +162,7 @@ Instalacja:
    
   b) odszukujemy wiersz:
    "remote_smtp:"
-   i na końcu tego transporta (za interface) dodajemy:
+   i na końcu tego transporta dodajemy:
    headers_add = "${if def:h_X-DirectAdmin-Sender:{Content-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\n}}"
 
   Po tych zmianach należy zrestartować exima.      
