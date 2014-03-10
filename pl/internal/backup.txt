@@ -126,6 +126,6 @@
 126=Nic
 127=%s: %s
 128=Nieprawidłowa ścieżka
-129=Są to wartości dynamiczne. Ze zmianą daty.
+129=Wartości dynamiczne, które zmieniają się wraz z datą
 130=Tydzień w miesiącu
 131=Własna
