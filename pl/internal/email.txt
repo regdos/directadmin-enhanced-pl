@@ -173,9 +173,9 @@
 173=Przerwano tworzenie kopii zapasowej: znaleziono twarde dowiązanie (hard link) w ścieżce Użytkownika %s
 174=(%d) Następujące twarde dowiązania (hard link) zostały znalezione u Użytkownika %s:
 175=Rozmiar archiwum
-176=Oczyść archiwum
+176=Usuń archiwa
 177=starsze niż %s dni.
-178=Archiwum oczyszczone
-179=Błąd czyszczenia archiwm
-180=Należy wybrać co najmniej jedną listę mailingową, aby oczyścić
+178=Archiwa zostały usunięte
+179=Wystąpił błąd podczas usuwania archiwów
+180=Należy wybrać co najmniej jedną listę mailingową, aby usunąć archiwa
 181=Dni musi być poprawną liczbą.
