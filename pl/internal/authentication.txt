@@ -57,3 +57,4 @@
 57=Wszyskie
 58=Nie znaleziona klucza o wartości %s
 59=Wartośc klucza musi się różnić od Twojego hasła DirectAdmin
+60=Wyjście skryptu

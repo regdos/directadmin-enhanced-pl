@@ -4,9 +4,9 @@
 / Kompletne tłumaczenie interfejsu, komunikatów internal, formularza zmiany   /
 / hasła oraz wiadomości wakacyjnej i autorespondera                           /
 /                                                                             /
-/ wersja DA: 1.42                                                             /
+/ wersja DA: 1.443                                                            /
 / kodowanie: UTF-8                                                            /
-/ autor: Tomasz Regdos (regdos.com) - 2012.11.12                              /
+/ autor: Tomasz Regdos (regdos.com) - 2014.01.09                              /
 /-----------------------------------------------------------------------------/
 
 Instalacja:
@@ -162,7 +162,7 @@ Instalacja:
    
   b) odszukujemy wiersz:
    "remote_smtp:"
-   i na końcu tego transporta (za interface) dodajemy:
+   i na końcu tego transporta dodajemy:
    headers_add = "${if def:h_X-DirectAdmin-Sender:{Content-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\n}}"
 
   Po tych zmianach należy zrestartować exima.      
