@@ -122,10 +122,10 @@
 122=Pomimo, że wystapił błąd podczas tworzenia kopii zapasowej, przesyłanie poprawnej kopii zapasowej będzie ponowione
 123=Plik jest odczytywany jako '%s'
 124=Plik %s nie może być odczytany jako %s.%cSprawdź jego uprawnienia i właściciela.
-125=Pełny
+125=Pełna data
 126=Nic
 127=%s: %s
-128=Nieprawidłowa wartość ścieżki
+128=Nieprawidłowa ścieżka
 129=Są to wartości dynamiczne. Ze zmianą daty.
 130=Tydzień w miesiącu
-131=Zazwyczaj
+131=Własna
