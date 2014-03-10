@@ -546,3 +546,9 @@
 546=Nie można zarządzać strefą
 547=Strefa jest typu DNSSEC. Edytuj tę strefę na serwerze master.<br>%sKliknij tutaj%s żeby zobaczyć surowe dane strefy lokalnej
 548=MySQL nie jest włączony na tym serwerze
+549=Archiwum wyczyszczone
+550=Błąd czyszczenia archiwów
+551=<b>|</b>
+552=Zostaw DNS
+553=%s Przeskoczyć usunięcie strefy DNS, pozostawienie na miejscu. %s
+554=%s Edycja wiadomości powitalnej użytkownika.

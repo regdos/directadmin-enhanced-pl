@@ -172,3 +172,10 @@
 172=Użytkownik %s ma co najmniej jedno twarde dowiązanie (hard link) w swojej ścieżce:
 173=Przerwano tworzenie kopii zapasowej: znaleziono twarde dowiązanie (hard link) w ścieżce Użytkownika %s
 174=(%d) Następujące twarde dowiązania (hard link) zostały znalezione u Użytkownika %s:
+175=Rozmiar archiwum
+176=Oczyść archiwum
+177=starsze niż %s dni.
+178=Archiwum oczyszczone
+179=Błąd czyszczenia archiwm
+180=Należy wybrać co najmniej jedną listę mailingową, aby oczyścić
+181=Dni musi być poprawną liczbą.
