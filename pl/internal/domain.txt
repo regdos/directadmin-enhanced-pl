@@ -33,4 +33,4 @@
 33=Zapisz
 34=Pierwsze PHP
 35=Drugie PHP
-36=Subdomena '%s' istnieje pod %s domeną.
+36=Subdomena '%s' jest już utworzona w domenie %s.
