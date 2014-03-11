@@ -101,3 +101,11 @@
 101=z uwzględnianiem wielkości liter
 102=Pliki (Inodes)
 103=Grupa %s już istnieje. Proszę wybrać inną nazwę użytkownika.
+104=Podana wartość jest za krótka
+105=Podana wartość jest za długa
+106=Już istnieje
+107=Hasło jest niepoprawne
+108=Hasło jest za łatwe.
+109=Nieprawidłowa domena
+110=Domena istnieje w %s
+111=Domena jest zabroniona
