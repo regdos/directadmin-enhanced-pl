@@ -157,12 +157,12 @@ Instalacja:
   
   a) odszukujemy wiersz:
    "virtual_localdelivery:"
-   i na końcu tego transporta (za quota) dodajemy:
+   i na końcu tego transportu (za quota) dodajemy:
    headers_add = "${if def:h_X-DirectAdmin-Sender:{Content-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\n}}"
    
   b) odszukujemy wiersz:
    "remote_smtp:"
-   i na końcu tego transporta dodajemy:
+   i na końcu tego transportu dodajemy:
    headers_add = "${if def:h_X-DirectAdmin-Sender:{Content-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\n}}"
 
   Po tych zmianach należy zrestartować exima.      
