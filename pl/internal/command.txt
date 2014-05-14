@@ -552,3 +552,7 @@
 552=Zostaw DNS
 553=%s Przeskoczyć usunięcie strefy DNS, pozostawienie na miejscu. %s
 554=%s Edycja wiadomości powitalnej użytkownika.
+555=Nieprawidłowa wartość rotacji logów: %d
+556=Maksymalna wartość wynosi %d
+557=Nieprawidłowa wartość minut dla sesji: %d
+558=Nie można znaleźć tej domeny
