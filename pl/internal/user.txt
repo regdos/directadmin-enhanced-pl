@@ -109,3 +109,4 @@
 109=Nieprawidłowa domena
 110=Domena istnieje w %s
 111=Domena jest zabroniona
+112=Nie można usunąć siebie (%s)
