@@ -433,14 +433,14 @@
 433=Nie można dodać IP
 434=Ta domena nie należy do Ciebie
 435=IP zostało dodane
-436=Bład podczas odczytu pliku user_ip.list
+436=Błąd podczas odczytu pliku user_ip.list
 437=Aktualne IP
 438=Typ IP
 439=Główne
 440=Dodatkowe
 441=Nie można usunąc IP
 442=IP usunięte
-443=-- Brak dostepnych --
+443=-- Brak dostępnych --
 444=Usuń rekordy DNS dla IP
 445=IP
 446=Nie wybrano IP
@@ -500,7 +500,7 @@
 500=Tylko admini mogą zerować licznik zużycia
 501=%s wydaje się być linkiem. Przerwanie.
 502=Błąd podczas usuwania %s
-503=Licznik dzisiajeszych e-maili został wyzerowany dla użytkownika %s
+503=Licznik dzisiejeszych e-maili został wyzerowany dla użytkownika %s
 504=Następujący plik nie został znaleziony, zerowanie nie jest wymagane.
 505=Bład podczas zapisu adresu e-mail zadań
 506=Adres e-mail zadań został zapisany
@@ -556,3 +556,6 @@
 556=Maksymalna wartość wynosi %d
 557=Nieprawidłowa wartość minut dla sesji: %d
 558=Nie można znaleźć tej domeny
+559=Kontrolowanie DNSSEC przez użytkownika jest wyłączone
+560=Wystąpił błąd podczas odblokowania ścieżki
+561=Ścieżka została odblokowana
