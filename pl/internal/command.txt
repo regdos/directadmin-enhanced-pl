@@ -559,3 +559,5 @@
 559=Kontrolowanie DNSSEC przez użytkownika jest wyłączone
 560=Wystąpił błąd podczas odblokowania ścieżki
 561=Ścieżka została odblokowana
+562=Kliknij podwójnie żeby przejść do głównej strony domeny
+563=Nginx nie jest włączony
