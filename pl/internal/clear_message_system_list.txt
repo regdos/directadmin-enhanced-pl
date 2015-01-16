@@ -1,5 +1,5 @@
 1=8
-2=-- wszystko --
+2=-- cokolwiek --
 3=W logu został wykryty atak Brute-Force
 4=aktualnie nie działa
 5=Twoja kopia zapasowa jest gotowa
