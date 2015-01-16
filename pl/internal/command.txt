@@ -561,3 +561,4 @@
 561=Ścieżka została odblokowana
 562=Kliknij podwójnie żeby przejść do głównej strony domeny
 563=Nginx nie jest włączony
+564=Ustawienia
