@@ -1,8 +1,8 @@
 1=8
 2=-- cokolwiek --
-3=W logu został wykryty atak Brute-Force
-4=aktualnie nie działa
-5=Twoja kopia zapasowa jest gotowa
-6=Wystąpił błąd podczas tworzenia kopii zapasowej
-7=wiadomości E-mail jest wysłanych z konta
-8=Uwaga: Obciążenie systemu (load average) wynosi
+3=Brute-Force Attack detected in service log
+4=is currently down
+5=Your backups are now ready
+6=An error occurred during the backup
+7=emails have just been sent by
+8=Warning: The system load average is
