@@ -199,3 +199,5 @@
 199=Nazwa skryptu PHP
 200=Liczba linii z funkcją mail() 
 201=Liczba wysyłek
+202=Używane bloki
+203=Pozorny rozmiar
