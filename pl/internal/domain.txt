@@ -34,3 +34,5 @@
 34=Pierwsze PHP
 35=Drugie PHP
 36=Subdomena '%s' jest już utworzona w domenie %s.
+37=Włączona
+38=Wyłączona

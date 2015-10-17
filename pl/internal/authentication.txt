@@ -61,3 +61,4 @@
 61=Log
 62=Pokaż
 63=Obetnij
+64=UTF-8
