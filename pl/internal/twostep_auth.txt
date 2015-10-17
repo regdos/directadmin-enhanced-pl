@@ -3,13 +3,13 @@
 3=Nie udało się pobrać blokady %s
 4=Błąd podczas zapisu %s: %s
 5=%s%s jest zablokowany przez %s w celu uniknięcia dostępu do konta w przyszłości.
-6=Ostrzerzenie: %s podał prawidłowe hasło do %s ale kod dwustopniowego uwierzytelnienia został podany błędnie %s razy.
+6=Ostrzeżenie: %s podał prawidłowe hasło do %s ale kod dwustopniowego uwierzytelnienia został podany błędnie %s razy.
 7=Adres IP %s dostarczył prawidłowe hasło do konta %s.%cJednak po %s próbach, nie został podany poprawny kod dwustopniowego uwierzytelnienia więc dostęp nie został przyznany.%cJeżeli to nie jest Twój adres IP należy zmienić hasło.%s
 8=Tajny klucz dwustopniowego uwierzytelnienia nie został ustawiony.
 9=<b>Podaj kod dwustopniowego uwierzytelnienia</b>
 10=Wyślij
 11=Kod
-12=%sTwoje IP jest na czarnej liście
+12=%sTwój adres IP jest na czarnej liście
 13=Niepoprawny kod dwustopniowego uwierzytelnienia
 14=Kody zdrapki
 15=Data utworzenia
