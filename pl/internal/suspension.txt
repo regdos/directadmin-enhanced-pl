@@ -21,3 +21,4 @@
 21=Inne
 22=-- Powód:
 23=Nieaktywny
+24=Konto %s zostało zablokowane przez Administratora. Na poziomie Resellera nie można odblokować tego konta.
