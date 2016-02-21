@@ -4,9 +4,8 @@
 / Kompletne tłumaczenie interfejsu, komunikatów internal, formularza zmiany   /
 / hasła oraz wiadomości wakacyjnej i autorespondera                           /
 /                                                                             /
-/ wersja DA: 1.45.4                                                            /
 / kodowanie: UTF-8                                                            /
-/ autor: Tomasz Regdos (regdos.com) - 2014.07.05                              /
+/ autor: Tomasz Regdos (regdos.com)                                           /
 /-----------------------------------------------------------------------------/
 
 Instalacja:
