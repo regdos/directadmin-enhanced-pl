@@ -25,3 +25,8 @@
 25=Ta domena będzie tymczasowo korzystać z Shared Server Certificate, chyba że przywrócisz klucz z kopii zapasowej (ale najpierw zapisz nowy klucz lub zostanie on utracony)
 26=Nie można otworzyć pliku CA Certificate (%s) do zapisu w: %s
 27=UWAGA: Używasz adresu IP serwera więc Twój CA Root Certificate zostanie zapisany do
+28=Let's Encrypt nie jest włączony. Nie możesz użyć tej opcji.
+29=Nieprawidłowy rozmiar klucza. Prawidłowa wartość to: %s
+30=Nie można utworzyć %s: %s
+31=Wystąpił błąd podczas automatycznego odnowienia certyfikatu dla %s
+32=Automatyczne odnowienie certyfikatu dla %s zakończyło się sukcesem
