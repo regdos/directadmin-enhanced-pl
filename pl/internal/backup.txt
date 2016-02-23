@@ -136,3 +136,4 @@
 136=Tworzenie kopii zapasowej FTP
 137=Tworzenie kopii zapasowej baz danych
 138=Tworzenie kopii zapasowej konfiguracji użytkownia 
+139=Nie

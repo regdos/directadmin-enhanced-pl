@@ -89,3 +89,4 @@
 89=Pobierz
 90=Podana nazwa użytkownika (%s) zawiera niedozwolone znaki (%s). Konto MySQL nie może być utworzone na %s
 91=Podana nazwa bazy danych (%s) zawiera niedozwolone znaki (%s).
+92=Błąd podczas nadawania dostępu dla głównego użytkownika do bazy danych:

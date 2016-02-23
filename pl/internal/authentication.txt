@@ -58,3 +58,7 @@
 58=Nie znaleziona klucza o wartości %s
 59=Wartośc klucza musi się różnić od Twojego hasła DirectAdmin
 60=Wyjście skryptu
+61=Log
+62=Pokaż
+63=Obetnij
+64=UTF-8

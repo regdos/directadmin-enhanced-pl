@@ -562,3 +562,10 @@
 562=Kliknij podwójnie żeby przejść do głównej strony domeny
 563=Nginx nie jest włączony
 564=Ustawienia
+565=Błąd dwustopniowego uwierzytelnienia
+566=Dwustopniowe uwierzytelnienie jest nieaktywne
+567=Błąd generowania kodów zdrapki
+568=Kody zdrapki
+569=%s usunięto
+570=Zaufane ciastko zostało wyczyszczone
+571=Wyślij listy E-mail

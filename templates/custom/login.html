@@ -1,33 +1,89 @@
-|?FAILEDLOGIN=<div class="login_error">Niepoprawna nazwa użytkownika lub hasło!</div>|
+|?FAILEDLOGIN=<div class="loginError">Niepoprawna nazwa użytkownika lub hasło!</div>|
+<!DOCTYPE html>
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Logowanie do panelu DirectAdmin</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Logowanie do panelu DirectAdmin</title>
 
-<style>
-    *{ FONT-SIZE: 8pt; FONT-FAMILY: verdana; } 
-    b { FONT-WEIGHT: bold; } 
-    .listtitle { BACKGROUND: #425984; COLOR: #EEEEEE; white-space: nowrap; } 
-    td.list { BACKGROUND: #EEEEEE; white-space: nowrap; }
-    .login_error {margin:10px 0; color:#990000; font-weight:bold; font-size:10pt}
-</style>
-
+    <style>
+        * {
+            font-size: 8pt;
+            font-family: Verdana, Arial, Sans-serif;
+        }
+        input {
+            padding: 3px 4px;
+        }
+        #container {
+            text-align: center;
+            margin-top: 50px;
+        }
+        #loginTable {
+            margin: 10px auto;
+        }
+        #loginTable tr td {
+            padding: 6px 4px;
+        }
+        .listTitle {
+            background-color: #425984;
+            color: #EEEEEE;
+            white-space: nowrap;
+            border-radius: 3px;
+            box-shadow: 1px 1px 3px #727272;
+            text-align: center;
+        }
+        .list {
+            background-color: #EEEEEE;
+            white-space: nowrap;
+            border-bottom: 1px solid #FFFFFF;
+        }
+        .right {
+            text-align: right;
+        }
+        .inset {
+            border: 1px solid #AAAAAA;
+            border-radius: 3px;
+        }
+        .submit {
+            border-radius: 5px;
+        }
+        .loginError {
+            margin: 20px 0;
+            color: #AA0000;
+            font-weight: bold;
+            font-size: 10pt
+        }
+    </style>
 </head>
+
 <body onload="document.form.username.focus();if(document.form.referer.value.indexOf('#')==-1)document.form.referer.value+=location.hash;">
-<center><br><br><br><br>
-<h1>Logowanie do panelu DirectAdmin</h1>
-|FAILEDLOGIN|
-<table cellspacing=1 cellpadding=5>
-<tr>
-<td class=listtitle colspan=2>Proszę podać nazwę użytkownika oraz hasło:</td></tr>
-<form action="/CMD_LOGIN" method="POST" name="form">
-<input type=hidden name=referer value="|REFERER|">
-<tr><td class=list align=right>Nazwa użytkownika:</td><td class=list><input type=text name=username></td></tr>
-<tr><td class=list align=right>Hasło:</td><td class=list><input type=password name=password></td></tr>
-<tr><td class=listtitle align=right colspan=2><input type=submit value='Zaloguj'></td></tr>
-</form>
-</table>
+    <div id="container">
+        <h1>Logowanie do panelu DirectAdmin</h1>
+        |FAILEDLOGIN|
+
+        <table cellspacing="0" cellpadding="0" id="loginTable" border="0">
+            <tr>
+                <td class="listTitle" colspan="2">Proszę podać nazwę użytkownika oraz hasło</td>
+            </tr>
+            <form action="/CMD_LOGIN" method="POST" name="form">
+                <input type="hidden" name="referer" value="|REFERER|">
+                <tr>
+                    <td class="list right">Nazwa użytkownika:</td>
+                    <td class="list"><input class="inset" type="text" name="username"></td>
+                </tr>
+                <tr>
+                    <td class="list right">Hasło:</td>
+                    <td class="list"><input class="inset" type="password" name="password"></td>
+                </tr>
+                <tr>
+                    <td class="listTitle right" colspan="2"><input class="submit" type="submit" value="Zaloguj"></td>
+                </tr>
+            </form>
+        </table>
 |*if LOST_PASSWORD="yes"|
-<a href="/CMD_LOST_PASSWORD">Zapomniane hasło?</a>
+        <a href="/CMD_LOST_PASSWORD">Zapomniane hasło?</a>
 |*endif|
-</center></body></html>
+    </div>
+</body>
+</html>
+
+
