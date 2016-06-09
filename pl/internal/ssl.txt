@@ -1,4 +1,4 @@
-1=Wystąpił błąd podczas odczytu pliku konfiguracyjnego domeny
+﻿1=Wystąpił błąd podczas odczytu pliku konfiguracyjnego domeny
 2=Kraj musi zawierać co najmniej dwie litery
 3=Stan/Województwo musi zawierać tylko litery, spacje i/lub kropki
 4=Miasto musi zawierać tylko litery, spacje i/lub kropki
@@ -30,3 +30,9 @@
 30=Nie można utworzyć %s: %s
 31=Wystąpił błąd podczas automatycznego odnowienia certyfikatu dla %s
 32=Automatyczne odnowienie certyfikatu dla %s zakończyło się sukcesem
+34=Musisz użyć opcji letsencrypt=1. Obecnie ustawione jest letsencrypt=%d.
+35=Domeny zawarte w certyfikacie Let's Encrypt
+36=Wybierz
+37=Wybrana wartość '%s' jest niedozwolona.
+38=Musisz wybrać co najmniej 1 wpis Let's Encrypt.
+39=Musisz zawrzeć domenę %s w certyfikacie Let's Encrypt.
