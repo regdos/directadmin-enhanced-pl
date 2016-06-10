@@ -5,7 +5,7 @@ Polish translation of DirectAdmin skin pack "Enhanced".
 
 Polskie tłumaczenie szablonu "Enhanced" dla systemu DirectAdmin.
 
-wersja DA: 1.5
+wersja DA: 1.501
 kodowanie: UTF-8
 autor: Tomasz Regdos (regdos.com)
 

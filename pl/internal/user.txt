@@ -110,3 +110,5 @@
 110=Domena istnieje w %s
 111=Domena jest zabroniona
 112=Nie można usunąć siebie (%s)
+113=ns1 lub ns2 nie jest poprawnym serwerem nazw
+114=Nie dokonano żadnych zmian

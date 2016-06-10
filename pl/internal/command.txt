@@ -569,3 +569,6 @@
 569=%s usunięto
 570=Zaufane ciastko zostało wyczyszczone
 571=Wyślij listy E-mail
+572=%sZapisz serwery nazw%s
+573=Wystąpił błąd podczas zapisywania serwerów nazw
+574=Serwery nazw zostały zapisane
