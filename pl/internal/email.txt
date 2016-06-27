@@ -203,7 +203,7 @@
 203=Pozorny rozmiar
 204=Wybrane kodowanie znaków jest niepoprawne.
 205=Wybrany nagłówek Content-Type jest niepoprawny.
-206=Automatyczna odpowiedź
+206=Autoresponder
 207=Prefiks tematu zawiera niedozwolone znaki. Użyj %s
 208=%s nie jest poprawną datą exim-a.
 209=minut
