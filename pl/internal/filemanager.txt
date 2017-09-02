@@ -75,3 +75,11 @@
 76=Upewnij się że, %s istnieje i ma ustawiony chmod na 1777.
 77=Żadne pliki nie zostały wybrane do przesłania.
 78=Właścicielem katalogu %s jest 'apache'.  Użyj funkcji 'Resetuj właściciela' i spróbuj ponownie.
+79=Ścieżka już istnieje, ale nie jest katalogiem
+80=Schowek
+81=Nazwa pliku
+82=OK
+83=Nie można otworzyć katalogu
+84=Maksymalna głębokość wyszukiwania rekurencyjnego wynosi %s
+85=Przesłany plik nie jest prawidłowy
+86=Wyjście skryptu

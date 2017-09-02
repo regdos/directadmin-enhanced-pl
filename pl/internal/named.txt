@@ -25,3 +25,7 @@
 25=%sStrefa kluczy jest nowsza od strefy podpisów. Podpisz ponownie swoją strefę.%s
 26=%sStrafa podpisów wygasła. Podpisz ponownie swoją strefę.%s
 27=Wygasła
+28=Nie można odczytać pliku DS %s
+29=Nie można odczytać pliku strefy dla %s
+30=Nie można zapisać pliku strefy dla  %s
+31=Wygenerowano klucz DNSSEC

@@ -48,3 +48,4 @@
 48=Dostarczona wartość nie jest prawidłowa, powinna zawierać IP, zakres IP, domenę lub wildcard domeny (*.domain.com)<br><a target=_blank href='http://www.directadmin.com/features.php?id=1252'>Więcej informacji</a>
 49=Zablokowany
 50=user_brutecount jest wyłączone
+51=Zatrzymany

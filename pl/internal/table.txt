@@ -18,3 +18,10 @@
 18=najwyżej
 19=zawiera
 20=rozpoczyna
+21=wybrany
+22=Pokaż
+23=Rezultaty
+24=<b>|</b>
+25=Sortowanie
+26=Kolumna w
+27=Sortowanie podrzędne

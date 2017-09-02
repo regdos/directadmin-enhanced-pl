@@ -1,0 +1,2 @@
+TITLE=Wszyscy Użytkownicy
+DESCRIPTION=Wszystkie konta na Serwerze
