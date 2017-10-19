@@ -118,3 +118,8 @@
 118=E-Mail
 119=FTP
 120=Baza danych
+121=Niepoprawny adres E-Mail
+122=Domena nie jest na Twojej liście
+123=Konto E-Mail już istnieje
+124=Nieprawidłowa subdomena
+125=Subdomena już istnieje

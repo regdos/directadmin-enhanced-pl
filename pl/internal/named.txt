@@ -29,3 +29,4 @@
 29=Nie można odczytać pliku strefy dla %s
 30=Nie można zapisać pliku strefy dla  %s
 31=Wygenerowano klucz DNSSEC
+32=Istnieje tylko 1 %s rekord dla %s=%s, nie można go usunąć

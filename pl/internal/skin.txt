@@ -25,3 +25,15 @@
 25=By przeładować logo należy wcisnąć klawisz F5
 26=Szablon został zmodyfikowany
 27=Modyfikuj szablon
+28=Własny kolor
+29=Wyczyść modyfikacje
+30=Domyślne
+31=Kolor został zmodyfikowany
+32=Zapisz
+33=Żaden kolor nie został wybrany
+34='%s' nie jest prawidłowym kolorem hex
+35=Szablon '%s' nie ma żadnych własnych kolorów do ustawienia
+36=Kolor %s (%s) nie jest z listy: %s
+37=Błąd podczas zapisu %s: %s
+38=Błąd podczas odczytu %s: %s
+39=Błąd podczas usuwania%s: %s"

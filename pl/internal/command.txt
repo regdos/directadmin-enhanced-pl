@@ -588,3 +588,4 @@
 588=Ustawiony referer żądania (%s) nie znajduje się na liście dozwolonych: %s
 589=Używany referer nie jest bezpieczny ponieważ może być kontrolowany przez Użytkownika: %s
 590=Nie można się wylogować
+591=%sPozostałe zużycie dysku

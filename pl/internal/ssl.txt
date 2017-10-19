@@ -53,3 +53,7 @@
 53=Host SNI '%s' nie należy do Ciebie
 54=Wróć
 55=SNI jest wyłączone dla tej domeny
+56=Nie można znaleźć domeny w certyfikacie.
+57=Nie ustawiaj Mail SNI.
+58=Nie znaleziono wartości SAN w certyfikacie.
+59=Certyfikat jest samo podpisany
