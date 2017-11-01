@@ -52,6 +52,18 @@
             font-weight: bold;
             font-size: 10pt
         }
+        #footer {
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+            padding-bottom: 20px;
+            text-align: center;
+            color: #A1A1A1;
+        }
+        #outofsync {
+            font-weight: bold;
+            color: #990000;
+        }
     </style>
 </head>
 
@@ -83,7 +95,14 @@
         <a href="/CMD_LOST_PASSWORD">Zapomniane hasło?</a>
 |*endif|
     </div>
+    <div id="footer">|TIME|<div id="outofsync"></div></div>
 </body>
 </html>
-
-
+<script language="JavaScript">
+    var computer_time = Math.floor(Date.now() / 1000);
+    var server_time = |TIME_SECONDS|;
+    var time_diff = Math.abs(computer_time - server_time);
+    if (time_diff > |ALLOWED_OFFSET|) {
+        document.getElementById('outofsync').innerHTML = 'Czas serwera i komputera różnią się o ' + (Math.round(100 * time_diff / 3600) / 100) + ' godzin.';
+    }
+}</script>

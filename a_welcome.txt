@@ -1,3 +1,4 @@
+|?HEADER=Content-Type: text/plain; charset=utf-8|
 Witamy,
 
 Dziękujemy za wybór naszej firmy. 

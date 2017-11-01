@@ -1,3 +1,4 @@
+|?HEADER=Content-Type: text/plain; charset=utf-8|
 |?SUBJECT=Reseller `USERNAME` wykorzystał `BANDWIDTH`% ze swojego limitu transferu|
 
 To jest generowana automatyczna wiadomość dla Resellera |USERNAME|, że wykorzystał |BANDWIDTH| %  ze swojego miesięcznego limitu transferu.
@@ -6,5 +7,4 @@ Szacuje się, że przy obecnym poziomie wykorzystania konto będzie jeszcze akty
 
 Administrator serwera oraz Reseller powinni się skontaktować w celu wyjańnienia sprawy jeżeli jest to problem.
 
-================================
-Wiadomość generowana automatycznie przez panel DirectAdmin
+|MSG_FOOTER|

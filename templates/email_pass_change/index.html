@@ -1,33 +1,77 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Zmiana hasła</title>
-<style>
-	*{ FONT-SIZE: 8pt; FONT-FAMILY: verdana; }
-	b { FONT-WEIGHT: bold; }
-	.listtitle { BACKGROUND: #425984; COLOR: #EEEEEE; white-space: nowrap; }
-	td.list { BACKGROUND: #EEEEEE; white-space: nowrap; }
-	input {border:1px solid #555}
-</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Zmiana hasła</title>
+    <meta name="robots" content="noindex,nofollow">
+    <style>
+        * {
+            font-size: 8pt;
+            font-family: Verdana, Arial, Sans-serif;
+        }
+        input {
+            padding: 3px 4px;
+        }
+        #container {
+            text-align: center;
+            margin-top: 50px;
+        }
+
+        .listTitle {
+            background-color: #425984;
+            color: #EEEEEE;
+            white-space: nowrap;
+            border-radius: 3px;
+            box-shadow: 1px 1px 3px #727272;
+            text-align: center;
+        }
+        .list {
+            background-color: #EEEEEE;
+            white-space: nowrap;
+            border-bottom: 1px solid #FFFFFF;
+        }
+        .right {
+            text-align: right;
+        }
+        .inset {
+            border: 1px solid #AAAAAA;
+            border-radius: 3px;
+        }
+        .submit {
+            border-radius: 5px;
+        }
+    </style>
 </head>
 <body>
-<center>
-<br><br><br>
-	<b>Zmiań hasło E-Mail</b>
-	<br><br>
-	<table cellpadding=5 cellspacing=1>
-		<form action="/CMD_CHANGE_EMAIL_PASSWORD" method="POST">
-		<tr><td class=listtitle colspan=2>Wypełnij poniżej wymagane informacje</td></tr>
-		<tr><td class=list align=right>Adres e-mail:</td><td class=list><input type=text name=email size=32></td></tr>
-		<tr><td class=list align=right>Aktualne hało:</td><td class=list><input type=password name=oldpassword size=32></td></tr>
-		<tr><td class=list align=right>Nowe hasło:</td><td class=list><input type=password name=password1 size=32></td></tr>
-		<tr><td class=list align=right>Powtórz nowe hasło:</td><td class=list><input type=password name=password2 size=32></td></tr>
-		<tr><td class=listtitle colspan=2 align=right><input type=submit value="Zmień hasło"></td></tr>
-		</form>
-	</table>
-<br><br>
-
-</center>
+<div id="container">
+    <b>Zmiań hasło E-Mail</b>
+    <br><br>
+    <table cellspacing="0" cellpadding="0" id="loginTable" border="0">
+        <form action="/CMD_CHANGE_EMAIL_PASSWORD" method="POST">
+            <tr>
+                <td class="listTitle" colspan="2">Wypełnij poniżej wymagane informacje</td>
+            </tr>
+            <tr>
+                <td class="list right">Adres e-mail:</td>
+                <td class="list"><input class="inset" type="text" name="email" size="32"></td>
+            </tr>
+            <tr>
+                <td class="list right">Aktualne hało:</td>
+                <td class="list"><input type="password" name="oldpassword" size="32"></td>
+            </tr>
+            <tr>
+                <td class="list right">Nowe hasło:</td>
+                <td class="list"><input type="password" name="password1" size="32"></td>
+            </tr>
+            <tr>
+                <td class="list right">Powtórz nowe hasło:</td>
+                <td class="list"><input type="password" name="password2" size="32"></td>
+            </tr>
+            <tr>
+                <td class="listTitle right" colspan="2"><input class="submit" type="submit" value="Zmień hasło"></td>
+            </tr>
+        </form>
+    </table>
+</div>
 </body>
 
 </html>
