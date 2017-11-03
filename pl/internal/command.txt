@@ -497,10 +497,10 @@
 497=Systems Quotas ma rozmiar 0. Zobacz<a target=_blank href="http://help.directadmin.com/item.php?id=42">tę instrukcję</a> żeby to naprawić.
 498=&nbsp; (Dzisiaj: %lld)
 499=Wyzeruj dzisiejsze
-500=Tylko admini mogą zerować licznik zużycia
+500=Tylko Administratorzy mogą zerować licznik zużycia
 501=%s wydaje się być linkiem. Przerwanie.
 502=Błąd podczas usuwania %s
-503=Licznik dzisiejeszych e-maili został wyzerowany dla użytkownika %s
+503=Licznik dzisiejszych e-maili został wyzerowany dla użytkownika %s
 504=Następujący plik nie został znaleziony, zerowanie nie jest wymagane.
 505=Bład podczas zapisu adresu e-mail zadań
 506=Adres e-mail zadań został zapisany
