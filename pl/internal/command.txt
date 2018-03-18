@@ -589,3 +589,8 @@
 589=Używany referer nie jest bezpieczny ponieważ może być kontrolowany przez Użytkownika: %s
 590=Nie można się wylogować
 591=%sPozostałe zużycie dysku
+592=Przywracanie będzie uruchomione w tle
+593=Ścieżka do katalogu domowego '%s' nie znajduje się na liście dozwolonych home_override_list
+594=Katalog domowy
+595=Nie pasuje do ustawienia: %s
+596=Serwer

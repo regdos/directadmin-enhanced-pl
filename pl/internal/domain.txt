@@ -36,3 +36,4 @@
 36=Subdomena '%s' jest już utworzona w domenie %s.
 37=Włączona
 38=Wyłączona
+39=Wyłączone

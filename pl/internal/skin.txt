@@ -37,3 +37,4 @@
 37=Błąd podczas zapisu %s: %s
 38=Błąd podczas odczytu %s: %s
 39=Błąd podczas usuwania%s: %s"
+40=Zawartość załadowanego %s nie jest poprawnym json
