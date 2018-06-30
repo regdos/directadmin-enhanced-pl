@@ -57,3 +57,6 @@
 57=Nie ustawiaj Mail SNI.
 58=Nie znaleziono wartości SAN w certyfikacie.
 59=Certyfikat jest samo podpisany
+60=Twoje żądanie będzie wykonywane w tle. Po zakończeniu otrzymasz powiadomienie w systemie wiadomości.
+61=Żądanie LetsEncrypt zakończono sukcesem
+62=Wystąpił błąd podczas żądania LetsEncrypt

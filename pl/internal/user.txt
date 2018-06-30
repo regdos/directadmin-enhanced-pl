@@ -123,3 +123,6 @@
 123=Konto E-Mail już istnieje
 124=Nieprawidłowa subdomena
 125=Subdomena już istnieje
+126=Przekierowanie już istnieje
+127=Niepoprawne konto FTP
+128=Konto FTP już istnieje

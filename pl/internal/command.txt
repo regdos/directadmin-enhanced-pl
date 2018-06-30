@@ -491,11 +491,11 @@
 491=Usunięto klucz(e)
 492=Wystąpił błąd podczas usuwania klucza(y)
 493=Wystąpił błąd podczas tworzenia klucza
-494Wystąpił błąd podczas resetowania klucza użytkownika
+494=Wystąpił błąd podczas resetowania klucza użytkownika
 495=Klucz użytkownika został zresetowany
 496=Klucze logowania są wyłączone
 497=Systems Quotas ma rozmiar 0. Zobacz<a target=_blank href="http://help.directadmin.com/item.php?id=42">tę instrukcję</a> żeby to naprawić.
-498=&nbsp; (Dzisiaj: %lld)
+498=&nbsp; (Dzisiaj: %lld%s%s)
 499=Wyzeruj dzisiejsze
 500=Tylko Administratorzy mogą zerować licznik zużycia
 501=%s wydaje się być linkiem. Przerwanie.
@@ -594,3 +594,17 @@
 594=Katalog domowy
 595=Nie pasuje do ustawienia: %s
 596=Serwer
+597=Usuń dane strony
+598=Zachowanie danych strony dotyczy tylko /domeny/domena.pl. Inne obszary, takie jak dane e-mail, nie zostaną zachowane
+599=%s Licencja
+600=%sWeryfikuj%s
+601=Sprawdź, czy aktualne oprogramowanie jest prawidłowe
+602=Licencja zweryfikowana
+603=Problem z weryfikacją licencji
+604=Zaktualizowano E-Mail
+605=Potwierdź rezultat na  <a href="%s">Stronie DirectAdmin</a>
+606=Awstats
+607=%sZapisz %s
+608=Włączone
+609=Wyłączone
+610=Ustawienia Awstats zostały zmienione

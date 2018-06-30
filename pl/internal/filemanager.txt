@@ -83,3 +83,4 @@
 84=Maksymalna głębokość wyszukiwania rekurencyjnego wynosi %s
 85=Przesłany plik nie jest prawidłowy
 86=Wyjście skryptu
+87=Hasło musi mieć więcej niż %d znaków

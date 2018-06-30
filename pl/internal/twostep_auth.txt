@@ -28,3 +28,4 @@
 28=Drukuj
 29=Kod jest ważny, ale o innym czasie.<br>Sprawdź czas zarówno na serwerze jak i w telefonie.<br>Rozbieżność czasu = %d<br>
 30=%s Ufaj temu urządzeniu przez %d dni
+31=Proszę wygenerować tajny klucz przed dodaniem kodów zdrapek
