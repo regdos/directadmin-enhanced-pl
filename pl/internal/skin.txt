@@ -38,3 +38,6 @@
 38=Błąd podczas odczytu %s: %s
 39=Błąd podczas usuwania%s: %s"
 40=Zawartość załadowanego %s nie jest poprawnym json
+41=Ustaw globalny
+42=Nie można usunąć szablonu, z którego aktualnie korzystasz.
+43=Kliknij, aby uzyskać więcej informacji

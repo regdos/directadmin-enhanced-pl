@@ -140,5 +140,6 @@
 140=Podjęto próbę przywrócenia '%s' do '%s' ale ta ścieżka nie jest w %s
 141=Konto zostało w katalogu '%s'
 142=Szyfrowanie %s nie powiodło się
-143=Odszyfrowywanie of %s nie powiodło się
+143=Odszyfrowywanie %s nie powiodło się
 144=Nieprawidłowe hasło szyfrowania
+145=Nie można zablokować akcji konta '%s'

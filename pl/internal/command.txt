@@ -608,3 +608,4 @@
 608=Włączone
 609=Wyłączone
 610=Ustawienia Awstats zostały zmienione
+611=Powód zawieszenia

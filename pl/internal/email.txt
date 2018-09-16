@@ -209,3 +209,7 @@
 209=minut
 210=godzin
 211=Oczyść
+212=Ostatnie logowanie: %s
+213=Adres IP ostatniego logowania: %s
+214=Hasło zostało zmienione: %s
+215=Hasło zmieniono z adresu IP: %s

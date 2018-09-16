@@ -60,3 +60,6 @@
 60=Twoje żądanie będzie wykonywane w tle. Po zakończeniu otrzymasz powiadomienie w systemie wiadomości.
 61=Żądanie LetsEncrypt zakończono sukcesem
 62=Wystąpił błąd podczas żądania LetsEncrypt
+63=Uwaga: poprzednia konfiguracja Let's Encrypt jest wciąż ustawiona na odnowienie za %d dni.
+64=Jeśli nie chcesz nadpisać bieżącego certyfikatu, wyłącz automatyczne odnawianie.
+65=Wyłącz automatyczne odnawianie

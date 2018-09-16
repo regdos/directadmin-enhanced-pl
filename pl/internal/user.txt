@@ -126,3 +126,10 @@
 126=Przekierowanie już istnieje
 127=Niepoprawne konto FTP
 128=Konto FTP już istnieje
+129=Nieprawidłowa nazwa DNS
+130=Nieprawidłowa wartość DNS
+131=Nieprawidłowa wartość rekordu MX
+132=Błąd odczytu %s: %s
+133=Rekord %s już istnieje z tą nazwą
+134=Pełna nazwa '%s' nie kończy się nazwą strefy
+135=Priorytet rekordu MX powinien być liczbą dodatnią
