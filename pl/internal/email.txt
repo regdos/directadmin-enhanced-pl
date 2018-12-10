@@ -213,3 +213,7 @@
 213=Adres IP ostatniego logowania: %s
 214=Hasło zostało zmienione: %s
 215=Hasło zmieniono z adresu IP: %s
+216=Usunięto przekierowanie %s@%s ponieważ nie było odbiorców.
+217=Przekierowanie %s nie może wskazywać na siebie
+218=Przekierowanie zawiera znak local_part_suffix: '%s' co oznacza, że wszystko po nim zostanie zignorowane, a przekierowanie nigdy się nie dopasuje.
+219=Błąd zapisu %s

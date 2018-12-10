@@ -63,3 +63,4 @@
 63=Uwaga: poprzednia konfiguracja Let's Encrypt jest wciąż ustawiona na odnowienie za %d dni.
 64=Jeśli nie chcesz nadpisać bieżącego certyfikatu, wyłącz automatyczne odnawianie.
 65=Wyłącz automatyczne odnawianie
+66=Domena już przetwarza żądanie SSL. Pozwól, aby to się skończyło przed wprowadzeniem innych zmian.

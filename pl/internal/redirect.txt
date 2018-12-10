@@ -18,3 +18,10 @@
 18=Nie możesz użyc IP dla nazwy domeny
 19=Bład odczytu pliku konfiguracynjego domeny
 20=IP w pliku konfiguracyjnym domeny (%s) jest błędny.
+21=Lokalna poczta
+22=Tak
+23=Nie
+24=Lokalna poczta
+25=Zdalna poczta
+26=Ustaw wybrane na
+27=Wskaźnik '%s' nie należy do ciebie.

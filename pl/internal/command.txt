@@ -328,7 +328,7 @@
 328=Musisz poczekać przynajmniej %d minut pomiędzy aktualizacjami.<br>Zostało Ci %d:%.2d.
 329=Nie można zaktualizować zużycia dysku
 330=Twoje zużycie dysku zostało zaktualizowane
-331=Adres e-Mail został zmieniony na %s
+331=Adres e-mail został zmieniony na %s
 332=Twoja nazwa została zmieniona na %s
 333=Język został zmieniony na %s
 334=Szablon został zainstalowany
@@ -454,7 +454,7 @@
 454=Nie można wyświetlić ustawień domeny
 455=<br><b>*** UWAGA ***</b><br>Planujesz usunąć konto Administratora lub Resellera do którego są przypisane konta Użytkownków w liczbie %d.<br>W przypadku kontynuowania wszystkie konta Użytkowników wraz z powiązanymi stronami internetowymi, kontami pocztowymi, wiadomościami e-mail i innymi rzeczami nie wymienionymi tutaj zostaną również usunięte.
 456=Subdomena została utworzona
-457=Dostarczenia Email
+457=Dostarczenia e-mail
 458=%sZwiększ tymczasowo transfer
 459=%sZapisz zmiany%s
 460=Nie można zmienić tymczasowego zwiększenia transferu
@@ -479,7 +479,7 @@
 479=Błędny limit listów e-mail
 480=Musi być dodatnią liczbą całkowitą
 481= / Dzień
-482=Nie można zmienić adresu E-mail systemu wiadomości
+482=Nie można zmienić adresu e-mail systemu wiadomości
 483=Policzone
 484=Pop
 485=Imap
@@ -568,7 +568,7 @@
 568=Kody zdrapki
 569=%s usunięto
 570=Zaufane ciastko zostało wyczyszczone
-571=Wyślij listy E-mail
+571=Wyślij listy e-mail
 572=%sZapisz serwery nazw%s
 573=Wystąpił błąd podczas zapisywania serwerów nazw
 574=Serwery nazw zostały zapisane
@@ -601,7 +601,7 @@
 601=Sprawdź, czy aktualne oprogramowanie jest prawidłowe
 602=Licencja zweryfikowana
 603=Problem z weryfikacją licencji
-604=Zaktualizowano E-Mail
+604=Zaktualizowano e-mail
 605=Potwierdź rezultat na  <a href="%s">Stronie DirectAdmin</a>
 606=Awstats
 607=%sZapisz %s
@@ -609,3 +609,18 @@
 609=Wyłączone
 610=Ustawienia Awstats zostały zmienione
 611=Powód zawieszenia
+612=Dostosowanie wyłączone
+613=SSH nie jest włączone
+614=Utworzono klucz SSH
+615=Wystąpił błąd podczas tworzenia klucza SSH
+616=Wystąpił błąd podczas autoryzacji klucza SSH
+617=Autoryzowano klucz SSH
+618=Usunięto konta e-mail
+619=Wystąpił błąd podczas usuwania klucza SSH
+620=Usunięto klucz SSH
+621=Klucze globalne
+622=Wystąił błąd podczas ustawiania klucza globalnego
+623=Wystąił błąd podczas zmiany klucza globalnego
+624=Zmienino klucz SSH
+625=Domyślnie
+626=Uwaga dotycząca limitu

@@ -56,3 +56,4 @@
 56=Niepoprawne delete_messages_days lub delete_tickets_days. Jest za duże.  Max = 
 57=Nie można odczytać pliku konfiguracji Systemu Wiadomości
 58=Nie można zapisać konfiguracji Systemu Wiadomości
+59=Wyjście skryptu

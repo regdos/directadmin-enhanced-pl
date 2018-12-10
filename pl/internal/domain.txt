@@ -37,3 +37,4 @@
 37=Włączona
 38=Wyłączona
 39=Wyłączone
+40=Błąd odczytu %s: %s
