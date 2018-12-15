@@ -14,8 +14,8 @@
 14=Gdzie i kiedy pierwszy raz się całowałaś/całowałeś?
 15=Jak miała na imię osoba, z którą po raz pierwszy się całowałaś/całowałeś?
 16=Jak nazywała/nazywał się wychowawca w Twojej trzeciej klasie?
-17=W jakim najbliższym mieście mieszka Twój brat lub siostra? 
-18=W jakim miesiącu i roku urodził się Twój najstarszy brat? (np.: Maj 1970) 
+17=W jakim najbliższym mieście mieszka Twój brat lub siostra?
+18=W jakim miesiącu i roku urodził się Twój najstarszy brat? (np.: Maj 1970)
 19=Jakie jest nazwisko panieńskie Twojej babci od strony mamy?
 20=W jakim mieście dostałaś/dostałeś pierwszą pracę?
 21=W jakim mieście miałaś/miałeś wesele?

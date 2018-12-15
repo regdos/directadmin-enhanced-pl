@@ -12,7 +12,7 @@
 12=Zamknięte
 13=Nie możesz zmienić tego zgłoszenia
 14=Wystąpił błąd podczas odczytu pliku z wiadomością
-15=Dzisiaj o 
+15=Dzisiaj o
 16=Temat
 17=Od
 18=Musisz podać numer, użytkownika, temat, priorytet, status i wiadomość
@@ -49,11 +49,11 @@
 49=subject_select != %d, ale temat nie jest ustawiony. To nie powinno się wydarzyć.
 50='Kiedy' powinno być starsze, nowsze lub zawsze
 51=Niepoprawna liczba dni: %s. Powinna być dodatnią liczbą całkowitą.
-52=Niepoprawna liczba dni: %s. Jest za duża.  Max = 
+52=Niepoprawna liczba dni: %s. Jest za duża.  Max =
 53=wiadomość
 54=zgłoszenie
 55=Niepoprawne delete_messages_days lub delete_tickets_days. Powinno wynosić 0 lub być dodatnią liczbą całkowitą.
-56=Niepoprawne delete_messages_days lub delete_tickets_days. Jest za duże.  Max = 
+56=Niepoprawne delete_messages_days lub delete_tickets_days. Jest za duże.  Max =
 57=Nie można odczytać pliku konfiguracji Systemu Wiadomości
 58=Nie można zapisać konfiguracji Systemu Wiadomości
 59=Wyjście skryptu

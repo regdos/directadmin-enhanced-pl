@@ -26,7 +26,7 @@
 26=Dzień miesiąca
 27=Miesiąc
 28=Dzień tygodnia
-29=Wszyscy Użytkownicy 
+29=Wszyscy Użytkownicy
 30=%sModyfikuj%s
 31=Błędny ID zadania terminarza zadań
 32=Nie jesteś właścicielem zadania o podanym ID
@@ -135,10 +135,10 @@
 135=Tworzenie kopii zapasowej ustawień poczty E-Mail
 136=Tworzenie kopii zapasowej FTP
 137=Tworzenie kopii zapasowej baz danych
-138=Tworzenie kopii zapasowej konfiguracji użytkownia 
+138=Tworzenie kopii zapasowej konfiguracji użytkownia
 139=Nie
 140=Podjęto próbę przywrócenia '%s' do '%s' ale ta ścieżka nie jest w %s
-141=Konto zostało w katalogu '%s'
+141=Utworzono konto w katalogu '%s'
 142=Szyfrowanie %s nie powiodło się
 143=Odszyfrowywanie %s nie powiodło się
 144=Nieprawidłowe hasło szyfrowania

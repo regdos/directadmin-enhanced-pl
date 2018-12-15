@@ -9,7 +9,7 @@
 9=Subdomena już istnieje
 10=Jest to symbol zastępczy subdomeny
 11=pliki konfiguracyjne %s zostały usunięte
-12=Utworzono podkatalog domen 
+12=Utworzono podkatalog domen
 13=Utworzono podkatalog domen w katalogu domowym użytkownika
 14=Podkatalog domen użytkownika został usunięty.
 15=Nie można usunąć podkatalogu domen użytkownika

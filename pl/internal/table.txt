@@ -1,5 +1,5 @@
 1=Wyczyść filtr wyszukiwania
-2=Sortuj zaznaczona kolumnę w 
+2=Sortuj zaznaczona kolumnę w
 3=kolejności
 4=rosnącej
 5=malejącej

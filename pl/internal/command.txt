@@ -20,7 +20,7 @@
 20=Potwierdź
 21=Anuluj
 22=Nie można utworzyć wiadomość
-23=Nie wybrano odbiorcy 
+23=Nie wybrano odbiorcy
 24=Nie można zawiesić samego siebie
 25=Nie masz kontroli nad tym użytkownikiem
 26=Powodzenie
@@ -97,14 +97,14 @@
 97=Istnieje już rekord CNAME o podanej nazwie
 98=Istnieje już rekord A o podanej nazwie
 99=Nie można wyświetlić rekordu DNS
-100=Wystąpił błąd podczas odczytu pliku bazy danych 
+100=Wystąpił błąd podczas odczytu pliku bazy danych
 101=Nie można utworzyć strefy
 102=Musisz podać prawidłową domenę, IP, ns1 i ns2
 103=Nie można utworzyć odwrotnego IP
 104=Podana strefa już istnieje
 105=Nie można utworzyć strefy.<br><br>Istnieje już w systemie:
-106=Resetuj strefę
-107=Wystąpił błąd podczas resetowania strefy
+106=Przywróć strefę do wartości domyślnych
+107=Wystąpił błąd podczas przywracania strefy do wartości domyślnych
 108=%sCzy na pewno chcesz usunąć wybrane strefy?%s
 109=został usunięty z listy.
 110=nie został usunięty ponieważ najpierw musi być zwolniony.
@@ -120,7 +120,7 @@
 120=Nie można utworzyć Resellera
 121=Musisz najpierw utworzyć jakiś pakiet
 122=Twój Reseller osiągnął przydzielony limit
-123=Twoje konto Resellera osiągnęło przydzielony limit 
+123=Twoje konto Resellera osiągnęło przydzielony limit
 124=Osiągnąłeś już przydzielony limit
 125=Nie można utworzyć użytkownika
 126=Musisz mieć najpierw własne IP
@@ -190,7 +190,7 @@
 190=Wiadomość jest wysyłana
 191=Twoja wiadomość jest wysyłana w tle
 192=Twoja wiadomość została wysyłana
-193=Zaktualizowane zgłoszenia 
+193=Zaktualizowane zgłoszenia
 194=Wgranie powiodło się
 195=Wystąpił błąd
 196=Utworzono spakowany plik
@@ -436,8 +436,8 @@
 436=Błąd podczas odczytu pliku user_ip.list
 437=Aktualne IP
 438=Typ IP
-439=Główne
-440=Dodatkowe
+439=Główny
+440=Dodatkowy
 441=Nie można usunąc IP
 442=IP usunięte
 443=-- Brak dostępnych --
@@ -519,7 +519,7 @@
 519=Status
 520=Użycie pamięci
 521=Nie znaleziono adresu IP
-522=Dodano połączenie adresu IP 
+522=Dodano połączenie adresu IP
 523=Usunięto połączenie(a) adresu IP
 524=Odświeżenie cache Użytkownika nastąpi za chwilę.
 525=Pytania zabezpieczające są wyłączone

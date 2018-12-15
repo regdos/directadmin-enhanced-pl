@@ -49,7 +49,7 @@
 50=Nie można zmienić nazwy katalogu na istniejący plik lub katalog
 51=Nazwa pliku %s już istnieje
 52=został zmieniony na
-53=został skopiowany do 
+53=został skopiowany do
 54=Musisz podać nazwę katalogu. np.: obrazy
 55=Katalog prywatny
 56=Nazwa użytkownika
@@ -67,7 +67,7 @@
 68=Nie dodano żadnych plików do schowka.
 69=Wystąpił błąd podczas kompresji pliku
 70=Idź do
-71=Plik %s nie ma ustawionego UID lub GID na apache 
+71=Plik %s nie ma ustawionego UID lub GID na apache
 72=<b>|</b>
 73=Rekursywnie
 74=Plik  %s ma co najmniej jedno twarde dowiązanie

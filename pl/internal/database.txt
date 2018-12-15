@@ -1,6 +1,6 @@
 1=Błąd z polecenia:
 2=Błąd podczas przeładowania przywilejów:
-3=Potrzebujesz nazwę bazy danych 
+3=Potrzebujesz nazwę bazy danych
 4=Potrzebujesz nazwy, użytkownika oraz hasła i hasła2
 5=Wyjście skryptu
 6=Podany użytkownik już istnieje
