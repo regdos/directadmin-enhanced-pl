@@ -91,3 +91,4 @@
 91=Podana nazwa bazy danych (%s) zawiera niedozwolone znaki (%s).
 92=Błąd podczas nadawania dostępu dla głównego użytkownika do bazy danych:
 93=Wartość jest za długa. Maks.=%d
+94=Cofnięcie wszystkich przywilejów usunęłoby użytkownika z mysql.db. Przyznaj co najmniej 1 przywilej.

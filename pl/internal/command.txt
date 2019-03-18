@@ -624,3 +624,9 @@
 624=Zmienino klucz SSH
 625=Domyślnie
 626=Uwaga dotycząca limitu
+627=%s konto %s zostało właśnie utworzone
+628=Reseller
+629=Administrator
+630=Konto %s zostało właśnie utworzone %s %s z adresu IP %s
+631=Ustaw szablon rekodu  MX
+632=Wystąpił błąd podczas ustawiania szablonu rekordu MX

@@ -31,3 +31,7 @@
 31=Wygenerowano klucz DNSSEC
 32=Istnieje tylko 1 %s rekord dla %s=%s, nie można go usunąć
 33=Błąd podczas dodawania rekordów DS dla %s do zdalnej strefy nadrzędnej: %s
+34=Wybierz szablon rekordu MX
+35=Przywróć domyślne ustawienia lokalne
+36=Szablon nie istnieje
+37=Szablony rekodu MX są wyłączone

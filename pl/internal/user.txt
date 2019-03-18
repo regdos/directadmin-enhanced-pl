@@ -133,3 +133,7 @@
 133=Rekord %s już istnieje z tą nazwą
 134=Pełna nazwa '%s' nie kończy się nazwą strefy
 135=Priorytet rekordu MX powinien być liczbą dodatnią
+136=Istnieje już alias listy dyskusyjnej o tej nazwie
+137=Ustawienia wyłączonego Resellera zostaną zastosowane do Użytkowników i Pakietów w tle.
+138=Błąd aktywacji danych dla %s: %s
+139=Wystąpił błąd podczas zastosowania ustawień do Użytkowników
