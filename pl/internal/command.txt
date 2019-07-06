@@ -630,3 +630,7 @@
 630=Konto %s zostało właśnie utworzone %s %s z adresu IP %s
 631=Ustaw szablon rekodu  MX
 632=Wystąpił błąd podczas ustawiania szablonu rekordu MX
+633=Usuń
+634=Usunięto link do statystyk
+635=Załadowano ponownie
+636=Zaloguj się jako %s

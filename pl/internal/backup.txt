@@ -143,3 +143,4 @@
 143=Odszyfrowywanie %s nie powiodło się
 144=Nieprawidłowe hasło szyfrowania
 145=Nie można zablokować akcji konta '%s'
+146=Użytkownik '%s' został usunięty z listy kopii zapasowych.

@@ -217,3 +217,5 @@
 217=Przekierowanie %s nie może wskazywać na siebie
 218=Przekierowanie zawiera znak local_part_suffix: '%s' co oznacza, że wszystko po nim zostanie zignorowane, a przekierowanie nigdy się nie dopasuje.
 219=Błąd zapisu %s
+220=DKIM wyłączony
+221=DKIM włączony

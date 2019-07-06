@@ -38,3 +38,5 @@
 38=Nie można dać żadnego adresu IP Użytkownikowi ponieważ nie został znaleziony żaden adres IP dowolnego typu. Upewnij się, że w pliku ip.list Resellera są jakieś użyteczne adresy IP.
 39=Ten adres IP nie istnieje na twojej liście
 40=Ten adres IP jest już w posiadaniu
+41=Ustaw globalnie udostępnione
+42=Błąd podczas odczytu %s: %s

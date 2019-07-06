@@ -137,3 +137,6 @@
 137=Ustawienia wyłączonego Resellera zostaną zastosowane do Użytkowników i Pakietów w tle.
 138=Błąd aktywacji danych dla %s: %s
 139=Wystąpił błąd podczas zastosowania ustawień do Użytkowników
+140=Lista adresow IP jest pusta
+141=Licencja jest ograniczona do %d kont, a obecnie masz %d
+142=Licencja jest ograniczona do %d domen, a obecnie masz %d

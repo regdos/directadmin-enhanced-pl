@@ -85,3 +85,4 @@
 86=Wyjście skryptu
 87=Hasło musi mieć więcej niż %d znaków
 88=Maksymalna liczba plików na liście (%d). Dalsze wyniki nie będą wyświetlane.
+89=Błąd podczas zapisu %s: %s

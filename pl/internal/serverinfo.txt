@@ -49,3 +49,4 @@
 49=Zablokowany
 50=user_brutecount jest wyłączone
 51=Zatrzymana
+52=Przeładowana
