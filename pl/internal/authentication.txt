@@ -23,7 +23,7 @@
 23=Nazwa klucza
 24=Ważność
 25=wykorzystanie
-26=Maksymalne wykorzystanie 
+26=Maksymalne wykorzystanie
 27=Komendy
 28=Zmień
 29=Nazwa klucza może zawierać tylko znaki: a-zA-Z0-9
@@ -31,7 +31,7 @@
 31=Wartość klucza musi być taka sama w obu polach
 32=Ważność musi być liczbą całkowitą
 33=Proszę podać jednostkę czasu ważności
-34=Ilość użyć musi być dodatnią liczbą całkowitą 
+34=Ilość użyć musi być dodatnią liczbą całkowitą
 35=Ważnośc jest za daleko w przyszłości
 36=Klucz o podanej nazwie już istnieje
 37=Nigdy
