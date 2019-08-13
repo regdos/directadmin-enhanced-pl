@@ -62,3 +62,4 @@
 62=Pokaż
 63=Obetnij
 64=UTF-8
+65=To jest Hash URL do logowania. Możesz go usunąć, ale nie możesz go zmodyfikować.

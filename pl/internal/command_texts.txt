@@ -77,3 +77,4 @@
 77=Pluginy (wtyczki) Administratora
 78=Monitor ataków Brute Force
 79=Klucze SSH
+80=Zarządzanie certyfikatami administracyjnymi

@@ -144,3 +144,6 @@
 144=Nieprawidłowe hasło szyfrowania
 145=Nie można zablokować akcji konta '%s'
 146=Użytkownik '%s' został usunięty z listy kopii zapasowych.
+147=Nie można znaleźć %s do onwersji %s
+148=Odrzucono przywracanie konta '%s' do właściciela '%s' ponieważ konto to już istnieje pod kontrolą właścicela '%s'
+149=To konto już istnieje w systemie. Przywrócenie spowoduje zastąpienie i/lub scalenie danych.

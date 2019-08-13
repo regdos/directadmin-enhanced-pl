@@ -140,3 +140,5 @@
 140=Lista adresow IP jest pusta
 141=Licencja jest ograniczona do %d kont, a obecnie masz %d
 142=Licencja jest ograniczona do %d domen, a obecnie masz %d
+143=Licencja jest ograniczona do %d Administratorów/Resellerów, a obecnie masz %d
+144=Ścieżka %s już istnieje przed utworzeniem użytkownika. Proszę najpierw usunąć tę ścieżkę.

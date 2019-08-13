@@ -634,3 +634,5 @@
 634=Usunięto link do statystyk
 635=Załadowano ponownie
 636=Zaloguj się jako %s
+637=Ustawiono pojedynczą wartość dla %s
+638=Przekroczono limity licencji

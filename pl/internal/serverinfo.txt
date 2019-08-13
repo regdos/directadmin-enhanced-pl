@@ -50,3 +50,4 @@
 50=user_brutecount jest wyłączone
 51=Zatrzymana
 52=Przeładowana
+53=Ilość wątków
