@@ -636,3 +636,6 @@
 636=Zaloguj się jako %s
 637=Ustawiono pojedynczą wartość dla %s
 638=Przekroczono limity licencji
+639=Ustaw na
+640=Konta użytkownika
+641=Utworzono adres URL logowania jednorazowego

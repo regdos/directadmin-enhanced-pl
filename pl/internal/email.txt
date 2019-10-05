@@ -219,3 +219,10 @@
 219=Błąd zapisu %s
 220=DKIM wyłączony
 221=DKIM włączony
+222=To nie jest twoja domena
+223=Logowanie jednym kliknięciem nie obsługuje webmail_link =% {webmail_link}. Spróbuj webmail_link=roundcube
+224=W RoundCube brakuje opcji direct_login. Proszę zainstaluj ponownie RoundCube.
+225=Logodanie do Webmail
+226=Możesz kliknąć poniższy e-mail, aby natychmiast zalogować się do %s jako ten użytkownik, bez znajomości jego hasła.
+227=Nie może mieć nieograniczonej wielkości skrzynki e-mail
+228=Limit wkielkości skrzynmi e-mail nie może przekraczać %s
