@@ -2,7 +2,7 @@
 
 Polish translation of DirectAdmin skin pack "Enhanced".
 
-* wersja DA: **1.591**
+* wersja DA: **1.594**
 * kodowanie: **UTF-8**
 * autor: **Tomasz Regdos (regdos.com)**
 * licencja: **GPL**

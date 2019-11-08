@@ -35,3 +35,13 @@
 35=Przywróć domyślne ustawienia lokalne
 36=Szablon nie istnieje
 37=Szablony rekodu MX są wyłączone
+38=Musisz podać prawidłową nazwę i wartość
+39=Podana wartość 'TTL' nie jest liczbą lub jest za duża
+40=Usunięcie tych rekordów NS spowoduje, że będzie ich zero. Musisz mieć conajmniej jeden rekord NS.<br> Najpierw dodaj nowe rekordy NS.
+41=Wartość musi być adresem IP
+42=Podana pełna nazwa nie kończy się na nazwie strefy
+43=Istnieje już rekord CNAME o tej nazwie
+44=Istnieje już rekord A o tej nazwie
+45=Typ '%s' jest nieaktywny
+46=Nie można dodać rekordu
+47=Nie można usunąć rekordu

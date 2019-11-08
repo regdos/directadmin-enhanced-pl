@@ -226,3 +226,4 @@
 226=Możesz kliknąć poniższy e-mail, aby natychmiast zalogować się do %s jako ten użytkownik, bez znajomości jego hasła.
 227=Nie może mieć nieograniczonej wielkości skrzynki e-mail
 228=Limit wkielkości skrzynmi e-mail nie może przekraczać %s
+229=Domyślnie
