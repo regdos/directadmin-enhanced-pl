@@ -23,3 +23,4 @@
 23=Nieaktywny
 24=Konto %s zostało zablokowane przez Administratora. Na poziomie Resellera nie można odblokować tego konta.
 25=Domena %s została zablokowana przez Administratora i nie masz do niej dostępu. Nie możesz cofnąć zawieszenia tej domeny.
+26=Tekst zawiera nieprawidłowe znaki

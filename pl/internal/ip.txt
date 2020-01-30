@@ -40,3 +40,7 @@
 40=Ten adres IP jest już w posiadaniu
 41=Ustaw globalnie udostępnione
 42=Błąd podczas odczytu %s: %s
+43=Współdzielone - losowo wybrane
+44=Link zadania w tle
+45=W przypadku przetwarzania dużej ilości domen może to spowodować przekroczenie limitu czasu
+46=Wolne - losowo wybrane

@@ -644,3 +644,4 @@
 644=Rekord został dodany
 645=Wystąpił błąd podczas usuwania rekordu
 646=Usunięto transfer Użytkownika
+647=DocumentRoot

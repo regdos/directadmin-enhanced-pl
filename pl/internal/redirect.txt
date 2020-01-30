@@ -25,3 +25,9 @@
 25=Zdalna poczta
 26=Ustaw wybrane na
 27=Wskaźnik '%s' nie należy do ciebie.
+28=Błąd odczytu %s: %s
+29=URL
+30=Nieprawidłowa lista rozszerzeń plików
+31=Nieprawidłowy adres URL przekierowania
+32=Nieprawidłowa lista dozwolonych domen
+33=40=Błąd zapisu %s: %s

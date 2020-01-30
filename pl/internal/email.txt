@@ -227,3 +227,10 @@
 227=Nie może mieć nieograniczonej wielkości skrzynki e-mail
 228=Limit wkielkości skrzynmi e-mail nie może przekraczać %s
 229=Domyślnie
+330=W pliku '%s' od Dovecot brakuje danych. Uruchom './build dovecot_conf'
+331=Twoje konto %s@%s zostało skonfigurowane. W swoim programie pocztowym użyj
+332=Nazwa użytkownika
+333=Hasło
+334=Serwer POP/IMAP
+335=Serwer SMTP
+336=port
