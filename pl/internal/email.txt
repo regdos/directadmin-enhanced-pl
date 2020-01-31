@@ -228,9 +228,9 @@
 228=Limit wkielkości skrzynmi e-mail nie może przekraczać %s
 229=Domyślnie
 330=W pliku '%s' od Dovecot brakuje danych. Uruchom './build dovecot_conf'
-331=Twoje konto %s@%s zostało skonfigurowane. W swoim programie pocztowym użyj
+331=Konto pocztowe %s@%s zostało utworzone. Użyj poniższych danych do konfiguracji programu pocztowego
 332=Nazwa użytkownika
 333=Hasło
-334=Serwer POP/IMAP
-335=Serwer SMTP
+334=Serwer poczty przychodzącej (POP/IMAP)
+335=Serwer poczty wychodzącej (SMTP)
 336=port
