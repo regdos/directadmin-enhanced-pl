@@ -95,3 +95,4 @@
 95=W phpMyAdmin brakuje opcji direct_login. Proszę zainstaluj ponownie phpMyAdmin.
 96=Znaleziono następujące tabele testowych baz danych:
 97=Nie powinny istnieć. Aby je usunąć, uruchom:
+98=Musisz mieć co najmniej jedną bazę danych, aby zalogować się do phpMyAdmin

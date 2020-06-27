@@ -44,3 +44,5 @@
 44=Link zadania w tle
 45=W przypadku przetwarzania dużej ilości domen może to spowodować przekroczenie limitu czasu
 46=Wolne - losowo wybrane
+47=Adres IP musi być współdzielony lub wolny
+48=Globalny

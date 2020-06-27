@@ -51,3 +51,4 @@
 51=Zatrzymana
 52=Przeładowana
 53=Ilość wątków
+54=Strefa czasowa nie istnieje

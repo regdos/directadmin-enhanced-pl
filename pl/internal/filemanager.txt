@@ -86,3 +86,7 @@
 87=Hasło musi mieć więcej niż %d znaków
 88=Maksymalna liczba plików na liście (%d). Dalsze wyniki nie będą wyświetlane.
 89=Błąd podczas zapisu %s: %s
+90=Przenieś do kosza
+91=Odznaczenie spowoduje natychmiastowe usunięcie pliku z dysku i nie będzie można go odzyskać
+92=Przywróć
+93=Wybierz co najmniej jeden plik

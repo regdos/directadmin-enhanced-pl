@@ -234,3 +234,4 @@
 334=Serwer poczty przychodzącej (POP/IMAP)
 335=Serwer poczty wychodzącej (SMTP)
 336=port
+337=Czas rozpoczęcia musi być wcześniejszy niż czas zakończenia.

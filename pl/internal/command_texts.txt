@@ -79,3 +79,6 @@
 79=Klucze SSH
 80=Zarządzanie certyfikatami administracyjnymi
 81=Ochrona Hotlink
+82=NGINX Unit
+83=Rspamd WebUI
+84=Serwer Netdata

@@ -66,3 +66,4 @@
 66=Domena już przetwarza żądanie SSL. Pozwól, aby to się skończyło przed wprowadzeniem innych zmian.
 67=Nie można odnaleźć skryptu letsencrypt.sh
 68=Nie powiodło się odnowienie %d więc nie będzie więcej prób.%s
+69=Zamiast tego znaleziono subdomeny. Kontynuuj z nimi.
