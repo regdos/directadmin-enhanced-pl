@@ -23,7 +23,7 @@
 23=%s nie znajduje się na Twojej liście adresów IP
 24=Nie możesz usunąć wszystkich swoich adresów IP
 25=Błąd podczas usuwania adresu(ów) IP z %s
-26=Nie mogę zneleźć %s
+26=Nie mogę znaleźć %s
 27=Właścicielem %s nie jest %s
 28=Więcej informacji na http://www.directadmin.com/features.php?id=925
 29=php1_select i php2_select muszą mieć wartość 1 lub 2

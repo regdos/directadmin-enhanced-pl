@@ -29,7 +29,7 @@
 29=Zaznacz
 30=Zaznacz jako przeczytane
 31=Usuń zaznaczone
-32=Nowa wiadomość wenątrz
+32=Nowa wiadomość w środku
 33=Użytkownik
 34=Priorytet
 35=Zamknij

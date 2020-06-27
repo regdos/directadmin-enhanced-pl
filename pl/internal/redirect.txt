@@ -15,8 +15,8 @@
 15=Wybierz
 16=Wskaźnik domeny %s dla domeny %s dla użytkownika %s już istnieje
 17=Nie można dodać wskaźnika %s ponieważ przekroczony został limit ustalony na %s
-18=Nie możesz użyc IP dla nazwy domeny
-19=Bład odczytu pliku konfiguracynjego domeny
+18=Nie możesz użyć IP dla nazwy domeny
+19=Błąd odczytu pliku konfiguracyjnego domeny
 20=IP w pliku konfiguracyjnym domeny (%s) jest błędny.
 21=Lokalna poczta
 22=Tak

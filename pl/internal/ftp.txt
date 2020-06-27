@@ -25,7 +25,7 @@
 25=Nie można przywrócić konta dla %s. Osiągnąłeś już swój limit (%s).
 26=Wyjście skryptu
 27=Nie można uzyskać blokady na %s
-28=Użytkownik zawiera separtor ftp (%c), które nie może występować w nazwie użytkownika.
+28=Użytkownik zawiera separator ftp (%c), które nie może występować w nazwie użytkownika.
 29=Zawieszone
 30=Odwieś
 31=Zawieś

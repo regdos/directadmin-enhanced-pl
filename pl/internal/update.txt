@@ -8,7 +8,7 @@
 8=Spróbuj zaktualizować ręcznie: %s
 9=Nie można połączyć się z żadną witryną w celu aktualizacji
 10=Wystąpiły błędy md5 ze wszystkich powyższych serwerów. Wyślij raport do pomocy technicznej DirectAdmin.
-11=Rządanie: %s
+11=Żądanie: %s
 12=Nowa licencja jest nieważna: %s
 13=Kod odpowiedzi: %s
 14=Licencja wymaga nowszej wersji DirectAdmin, ale Twój system operacyjny jest już przestarzały (EOL). Zainstaluj nowszy system operacyjny, aby kontynuować.

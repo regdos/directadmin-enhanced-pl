@@ -32,7 +32,7 @@
 32=Ważność musi być liczbą całkowitą
 33=Proszę podać jednostkę czasu ważności
 34=Ilość użyć musi być dodatnią liczbą całkowitą
-35=Ważnośc jest za daleko w przyszłości
+35=Ważność jest za daleko w przyszłości
 36=Klucz o podanej nazwie już istnieje
 37=Nigdy
 38=Podane hasło jest niepoprawne.
@@ -42,21 +42,21 @@
 42=Nie zaznaczono żadnego klucza
 43=Bez limitu
 44=<font style='COLOR: red;'><b>Wygasł</b></font>
-45=Taki klucz nie sitnieje
+45=Taki klucz nie istnieje
 46=Zezwól
 47=Odmów
 48=%s nie jest na liście twoich poleceń
 49=%s nie jest poprawnym adresem IP lub zakresem adresów IP
-50=Błąd zapsiu %s: %s
+50=Błąd zapisu %s: %s
 51=Zeruj zużycie
 52=Nie można odczytać %s: %s
 53=Nie można zapisać %s: %s
 54=Twój klucz logowania '%s' został utworzony
 55=Powiadomienie, że klucz logowania %s został pomyślnie utworzony przez %s
 56=Adresy IP
-57=Wszyskie
+57=Wszystkie
 58=Nie znaleziona klucza o wartości %s
-59=Wartośc klucza musi się różnić od Twojego hasła DirectAdmin
+59=Wartość klucza musi się różnić od Twojego hasła DirectAdmin
 60=Wyjście skryptu
 61=Log
 62=Pokaż

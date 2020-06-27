@@ -4,7 +4,7 @@
 4=Nie można otworzyć %s do odczytu
 5=Nieprawidłowy typ klucza: '%s'
 6=Nieprawidłowy rozmiar klucza: '%s'
-7=Podane hasłą nie pasują do siebie
+7=Podane hasła nie pasują do siebie
 8=Niepoprawne hasło
 9=Nie mogę znaleźć %s
 10=%s jest linkiem

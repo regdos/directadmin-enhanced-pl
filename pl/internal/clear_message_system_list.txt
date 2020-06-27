@@ -4,5 +4,5 @@
 4=jest obecnie wyłączony
 5=Twoje kopie zapasowe są gotowe
 6=Wystąpił błąd podczas tworzenia kopii zapasowej
-7=listy e-mail zostały właśnie wysłąne przez
+7=listy e-mail zostały właśnie wysłane przez
 8=Uwaga: średnie obciążenie (load average) wynosi

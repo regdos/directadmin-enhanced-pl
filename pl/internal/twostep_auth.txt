@@ -16,7 +16,7 @@
 16=Wybierz
 17=Usuń
 18=Dodaj kody
-19=Nowy tajny klucz: <span class=code_edit>%s</span><br>Pamiętej, aby ponownie zeskanować kod QR oraz, że wszystkie stare kody stają się nieważne.
+19=Nowy tajny klucz: <span class=code_edit>%s</span><br>Pamiętaj, aby ponownie zeskanować kod QR oraz, że wszystkie stare kody stają się nieważne.
 20=Ważny
 21=Przepisz kod ze swojej aplikacji w telefonie lub użyj kodu zapasowego ze zdrapki.
 22=Nigdy

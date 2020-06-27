@@ -65,7 +65,7 @@
 65=Własne konfiguracje HTTPD
 66=Przenoszenie Użytkowników pomiędzy Resellerami
 67=Konfiguracja PHP
-68=Menadżer Pluginów (wtczyek)
+68=Menadżer Pluginów (wtyczek)
 69=Backup Systemowy
 70=Przeglądarka Logów
 71=Ustawienia Multi Serwer
